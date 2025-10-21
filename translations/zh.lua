@@ -45,6 +45,14 @@ Translation.Collectibles = {
         Name = "猪龙气球",
         Description = '向着天空...和大海',
     },
+    [Collectibles.WingsofRebirth.ID] = {
+        Name = "涅槃龙翼",
+        Description = '华焰璀璨，直至尽头',
+    },
+    [Collectibles.DraedonsHeart.ID] = {
+        Name = "嘉登之心",
+        Description = '纳米机器，小子',
+    },
 }
 
 Translation.Players = {

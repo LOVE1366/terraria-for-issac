@@ -1,0 +1,5 @@
+<costumes anm2root="gfx/characters/">
+	<costume id="11" anm2root="costume_wings_of_birth.anm2" type="passive" isFlying="true" priority="99"/>
+	<costume id="1" anm2root="costume_panic_necklace.anm2" type="passive" priority="99"/>
+	<costume id="5" anm2root="costume_spore_sac.anm2" type="passive" priority="99"/>
+</costumes>

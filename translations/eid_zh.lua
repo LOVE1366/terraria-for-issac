@@ -48,6 +48,14 @@ EIDInfo.Collectibles = {
     [Collectibles.PigDragonBallon.ID] = {
         name = "猪龙气球",
         info = '',
+    },
+    [Collectibles.WingsofRebirth.ID] = {
+        name = "涅槃龙翼",
+        info = '',
+    },
+    [Collectibles.DraedonsHeart.ID] = {
+        name = "嘉登之心",
+        info = '',
     }
 }
 

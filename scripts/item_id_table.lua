@@ -11,6 +11,8 @@ Table.Collectibles = {
     [8] = Isaac.GetItemIdByName("Frozen Shell"),
     [9] = Isaac.GetItemIdByName("Pillar of Unity"),
     [10] = Isaac.GetItemIdByName("Pig Dragon Ballon"),
+    [11] = Isaac.GetItemIdByName("Wings of Rebirth"),
+    [12] = Isaac.GetItemIdByName("Draedon's Heart"),
 }
 
 Table.ZhCollectiblesName = {
@@ -24,6 +26,8 @@ Table.ZhCollectiblesName = {
     ["冰冻壳"] = "Frozen Shell",
     ["归一心原石"] = "Pillar of Unity",
     ["猪龙气球"] = "Pig Dragon Ballon",
+    ["涅槃龙翼"] = "Wings of Rebirth",
+    ["嘉登之心"] = "Draedon's Heart",
 }
 
 Table.Cards = {

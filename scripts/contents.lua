@@ -11,6 +11,8 @@ Mod.Collectibles = {
     FrozenShell = include("scripts/items/frozen_shell"),            -- 8
     PillarOfUnity = include("scripts/items/pillar_of_unity"),       -- 9
     PigDragonBallon = include("scripts/items/pig_dragon_ballon"),   -- 10
+    WingsofRebirth = include("scripts/items/wings_of_rebirth"),         -- 11
+    DraedonsHeart = include("scripts/items/draedons_heart"),           -- 12
 }
 Mod.Effects = {
     Spore = include("scripts/effects/spore"),

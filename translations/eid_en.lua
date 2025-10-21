@@ -46,6 +46,14 @@ EIDInfo.Collectibles = {
     [Collectibles.PigDragonBallon.ID] = {
         name = "Pig Dragon Ballon",
         info = '',
+    },
+    [Collectibles.WingsofRebirth.ID] = {
+        name = "Wings of Rebirth",
+        info = '',
+    },
+    [Collectibles.DraedonsHeart.ID] = {
+        name = "Draedon's Heart",
+        info = '',
     }
 }
 
