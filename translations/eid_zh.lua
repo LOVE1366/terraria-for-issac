@@ -57,6 +57,22 @@ EIDInfo.Collectibles = {
         name = "嘉登之心",
         info = '',
     }
+    [Collectibles.AncientSoul.ID] = {
+        name = "古代之魂",
+        info = '',
+    },
+    [Collectibles.BloodTears.ID] = {
+        name = "血泪",
+        info = '',
+    },
+    [Collectibles.TallyCounter.ID] = {
+        name = "杀怪计数器",
+        info = '',
+    },
+    [Collectibles.GunSight.ID] = {
+        name = "瞄准镜",
+        info = '',
+    },
 }
 
 

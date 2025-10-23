@@ -11,4 +11,8 @@
   <passive id = "10" name="Pig Dragon Ballon" cache="damage" description="A item for test" gfx="p_pig_dragon_ballon.png" quality="2" tags="offensive"/>
   <passive id = "11" name="Wings of Rebirth" cache="flying" description="A item for test" gfx="p_wings_of_rebirth.png" quality="4" tags="offensive"/>
   <passive id = "12" name="Draedon's Heart" cache="damage" description="A item for test" gfx="p_draedon's heart.png" quality="4" tags="offensive"/>
+  <passive id = "13" name="Ancient Soul" cache="damage" description="A item for test" gfx="a_ancient_soul.png" quality="4" tags="offensive"/>
+  <passive id = "14" name="Blood Tears" cache="damage" description="A item for test" gfx="a_blood_tears.png" quality="2" tags="offensive"/>
+  <passive id = "15" name="Tally Counter" cache="damage" description="A item for test" gfx="p_tally_counter.png" quality="2" tags="offensive"/>
+  <passive id = "16" name="Gun Sight" cache="damage" description="A item for test" gfx="p_gun_sight.png" quality="3" tags="offensive"/>
 </items>

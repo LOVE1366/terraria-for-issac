@@ -55,6 +55,22 @@ EIDInfo.Collectibles = {
         name = "Draedon's Heart",
         info = '',
     }
+    [Collectibles.AncientSoul.ID] = {
+        name = "Ancient Soul",
+        info = '',
+    },
+    [Collectibles.BloodTears.ID] = {
+        name = "Blood Tears",
+        info = '',
+    },
+    [Collectibles.TallyCounter.ID] = {
+        name = "Tally Counter",
+        info = '',
+    },
+    [Collectibles.GunSight.ID] = {
+        name = "Gun Sight",
+        info = '',
+    }
 }
 
 EIDInfo.EIDBirthright = {

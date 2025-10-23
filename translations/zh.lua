@@ -53,6 +53,22 @@ Translation.Collectibles = {
         Name = "嘉登之心",
         Description = '纳米机器，小子',
     },
+    [Collectibles.AncientSoul.ID] = {
+        Name = "古代之魂",
+        Description = '古老的光明与黑暗之魂已经释放',
+    },
+    [Collectibles.BloodTears.ID] = {
+        Name = "血泪",
+        Description = '诅咒之夜太可怕了',
+    },
+    [Collectibles.TallyCounter.ID] = {
+        Name = "杀怪计数器",
+        Description = '数量=财富',
+    },
+    [Collectibles.GunSight.ID] = {
+        Name = "瞄准镜",
+        Description = '精准射击',
+    },
 }
 
 Translation.Players = {
