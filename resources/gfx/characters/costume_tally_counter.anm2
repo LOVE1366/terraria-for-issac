@@ -1,11 +1,11 @@
 <AnimatedActor>
-	<Info CreatedBy="" CreatedOn="2025/10/23 16:58:25" Version="10" Fps="30"/>
+	<Info CreatedBy="" CreatedOn="2025/10/23 17:14:17" Version="10" Fps="30"/>
 	<Content>
 		<Spritesheets>
-			<Spritesheet Path="costumes\costume_panic_necklace.png" Id="0"/>
+			<Spritesheet Path="costumes\costume_tally_counter.png" Id="0"/>
 		</Spritesheets>
 		<Layers>
-			<Layer Name="body1" Id="0" SpritesheetId="0"/>
+			<Layer Name="body0" Id="0" SpritesheetId="0"/>
 		</Layers>
 		<Nulls/>
 		<Events>

@@ -1,4 +1,4 @@
-<items gfxroot="gfx/items/" version="1">
+<items gfxroot="gfx/items/" deathanm2="gfx/death_items.anm2" version="1">
   <passive id = "1" name="Panic Necklace" cache="damage" description="A item for test" gfx="p_panic_necklace.png" quality="1" tags="offensive"/>
   <passive id = "2" name="Brain of Confusion" cache="damage" description="A item for test" gfx="p_brain_of_confusion.png" quality="2" tags="offensive"/>
   <passive id = "3" name="Lucky Coin" cache="damage" description="A item for test" gfx="p_lucky_coin.png" quality="2" tags="offensive"/>
